@@ -1,0 +1,3 @@
+-about page blurb
+-bio
+-add avatar (or delete existing)
